@@ -1,0 +1,17 @@
+.class1{
+    width: 50%;
+    border:2px solid red;
+    background-color: yellow;
+}
+
+.class2{
+    width: 400px;
+    background-color: yellow;
+    border:2px solid red;
+}
+
+.parent{
+    width: 150px;
+    border:2px solid red;
+    font-size: 50px;
+}
